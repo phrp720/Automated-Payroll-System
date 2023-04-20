@@ -4,9 +4,9 @@ This project is an automated payroll system developed by a team of three members
 
 ## Team Members
 
-1. Φίλιππος Παπαδάκης ΑΜ 4453
-2. Ευθύμης Μητκούσης ΑΜ 4493
-3. Ευγενία Κουναλάκη ΑΜ 4365
+1. Φίλιππος Παπαδάκης
+2. Ευθύμης Μητκούσης 
+3. Ευγενία Κουναλάκη 
 
 ## How to Run with XAMPP
 
