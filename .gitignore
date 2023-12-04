@@ -1,3 +1,5 @@
 # exclude .bin and .lock files
 *.bin
 *.lock
+*.idea
+build
