@@ -1,6 +1,7 @@
 # Automated Payroll System
 
-This project is an automated payroll system developed by a team of three members. The system aims to simplify and streamline the payroll process for businesses.
+This project is an automated payroll system developed by a team of three members for academic purposes.
+The system aims to simplify and streamline the payroll process for businesses.
 
 ## Team Members
 
